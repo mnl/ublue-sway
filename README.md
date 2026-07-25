@@ -1,6 +1,6 @@
 # ublue-sway
 
-https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/ublue-sway)](https://artifacthub.io/packages/search?repo=ublue-sway)
+[https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/ublue-sway](https://artifacthub.io/packages/search?repo=ublue-sway)
 
 Custom [bootc](https://github.com/bootc-dev/bootc) image. This customizes the Universal Blue Base image adding Fedora Sway Atomic packages and layering Libvirt.
 
