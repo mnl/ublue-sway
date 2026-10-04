@@ -11,6 +11,8 @@ on:
       - main
     paths-ignore:
       - '**/README.md'
+      - '**/artifacthub-pkg.yml'
+      - '**/artifacthub-repo.yml'
   workflow_dispatch:
 
 env:

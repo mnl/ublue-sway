@@ -1,0 +1,10 @@
+version: 0.1.0
+name: ublue-sway
+displayName: Universal Blue Sway Spin
+createdAt: "2026-10-04T19:00:00Z"
+description: Custom bootc image combining Universal Blue and Fedora Sway Atomic.
+license: Apache-2.0
+homeURL: https://github.com/mnl/ublue-sway
+containersImages:
+  - name: bootc
+    image: ghcr.io/mnl/ublue-sway:latest
